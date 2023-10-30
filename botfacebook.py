@@ -4,7 +4,7 @@ import requests
 import io
 
 # إنشاء كائن البوت باستخدام رمز API الخاص بك
-bot = telegram.Bot(token="YOUR_TOKEN_HERE")
+bot = telegram.Bot(token="6502455740:AAGjMhh_fCNQUCvsNpKqHRgyirjiDr3cbEk")
 
 # تعريف دالة للتحقق من صحة رابط الفيسبوك
 def is_valid_facebook_url(url):
